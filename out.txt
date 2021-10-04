@@ -1,0 +1,181 @@
+from: can't read /var/mail/selenium
+/home/mrmark23/Glacier_Get_Shot.py: 2: import: not found
+/home/mrmark23/Glacier_Get_Shot.py: 3: Syntax error: "(" unexpected
+from: can't read /var/mail/selenium
+/home/mrmark23/Glacier_Get_Shot.py: 2: import: not found
+/home/mrmark23/Glacier_Get_Shot.py: 3: Syntax error: "(" unexpected
+from: can't read /var/mail/selenium
+/home/mrmark23/Glacier_Get_Shot.py: 2: import: not found
+/home/mrmark23/Glacier_Get_Shot.py: 3: Syntax error: "(" unexpected
+from: can't read /var/mail/selenium
+/home/mrmark23/Glacier_Get_Shot.py: 2: import: not found
+/home/mrmark23/Glacier_Get_Shot.py: 3: Syntax error: "(" unexpected
+from: can't read /var/mail/selenium
+/home/mrmark23/Glacier_Get_Shot.py: 2: import: not found
+/home/mrmark23/Glacier_Get_Shot.py: 3: Syntax error: "(" unexpected
+Traceback (most recent call last):
+  File "/home/mrmark23/Glacier_Get_Shot.py", line 27, in <module>
+    get_shot(path,url)
+  File "/home/mrmark23/Glacier_Get_Shot.py", line 5, in get_shot
+    driver = wb.Firefox()
+  File "/home/mrmark23/.local/lib/python3.8/site-packages/selenium/webdriver/firefox/webdriver.py", line 170, in __init__
+    RemoteWebDriver.__init__(
+  File "/home/mrmark23/.local/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 157, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/home/mrmark23/.local/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "/home/mrmark23/.local/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/mrmark23/.local/lib/python3.8/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: Process unexpectedly closed with status 1
+
+Traceback (most recent call last):
+  File "/home/mrmark23/Glacier_Get_Shot.py", line 27, in <module>
+    get_shot(path,url)
+  File "/home/mrmark23/Glacier_Get_Shot.py", line 5, in get_shot
+    driver = wb.Firefox()
+  File "/home/mrmark23/.local/lib/python3.8/site-packages/selenium/webdriver/firefox/webdriver.py", line 170, in __init__
+    RemoteWebDriver.__init__(
+  File "/home/mrmark23/.local/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 157, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/home/mrmark23/.local/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "/home/mrmark23/.local/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/mrmark23/.local/lib/python3.8/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: Process unexpectedly closed with status 1
+
+Traceback (most recent call last):
+  File "/home/mrmark23/Glacier_Get_Shot.py", line 11, in <module>
+    driver = wb.Firefox()
+  File "/home/mrmark23/.local/lib/python3.8/site-packages/selenium/webdriver/firefox/webdriver.py", line 170, in __init__
+    RemoteWebDriver.__init__(
+  File "/home/mrmark23/.local/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 157, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/home/mrmark23/.local/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "/home/mrmark23/.local/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/mrmark23/.local/lib/python3.8/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: Process unexpectedly closed with status 1
+
+/home/mrmark23/Glacier_Get_Shot.py:14: DeprecationWarning: use options instead of firefox_options
+  driver = wb.Firefox(firefox_options = opts)
+/home/mrmark23/Glacier_Get_Shot.py:14: DeprecationWarning: use options instead of firefox_options
+  driver = wb.Firefox(firefox_options = opts)
+/home/mrmark23/Glacier_Get_Shot.py:14: DeprecationWarning: use options instead of firefox_options
+  driver = wb.Firefox(firefox_options = opts)
+/home/mrmark23/Glacier_Get_Shot.py:14: DeprecationWarning: use options instead of firefox_options
+  driver = wb.Firefox(firefox_options = opts)
+/home/mrmark23/Glacier_Get_Shot.py:14: DeprecationWarning: use options instead of firefox_options
+  driver = wb.Firefox(firefox_options = opts)
+/home/mrmark23/Glacier_Get_Shot.py:14: DeprecationWarning: use options instead of firefox_options
+  driver = wb.Firefox(firefox_options = opts)
+/home/mrmark23/Glacier_Get_Shot.py:14: DeprecationWarning: use options instead of firefox_options
+  driver = wb.Firefox(firefox_options = opts)
+/home/mrmark23/Glacier_Get_Shot.py:14: DeprecationWarning: use options instead of firefox_options
+  driver = wb.Firefox(firefox_options = opts)
+/home/mrmark23/Glacier_Get_Shot.py:14: DeprecationWarning: use options instead of firefox_options
+  driver = wb.Firefox(firefox_options = opts)
+/home/mrmark23/Glacier_Get_Shot.py:14: DeprecationWarning: use options instead of firefox_options
+  driver = wb.Firefox(firefox_options = opts)
+/home/mrmark23/Glacier_Get_Shot.py:14: DeprecationWarning: use options instead of firefox_options
+  driver = wb.Firefox(firefox_options = opts)
+/home/mrmark23/Glacier_Get_Shot.py:14: DeprecationWarning: use options instead of firefox_options
+  driver = wb.Firefox(firefox_options = opts)
+/home/mrmark23/Glacier_Get_Shot.py:14: DeprecationWarning: use options instead of firefox_options
+  driver = wb.Firefox(firefox_options = opts)
+/home/mrmark23/Glacier_Get_Shot.py:14: DeprecationWarning: use options instead of firefox_options
+  driver = wb.Firefox(firefox_options = opts)
+/home/mrmark23/Glacier_Get_Shot.py:14: DeprecationWarning: use options instead of firefox_options
+  driver = wb.Firefox(firefox_options = opts)
+/home/mrmark23/Glacier_Get_Shot.py:14: DeprecationWarning: use options instead of firefox_options
+  driver = wb.Firefox(firefox_options = opts)
+/home/mrmark23/Glacier_Get_Shot.py:14: DeprecationWarning: use options instead of firefox_options
+  driver = wb.Firefox(firefox_options = opts)
+/home/mrmark23/Glacier_Get_Shot.py:14: DeprecationWarning: use options instead of firefox_options
+  driver = wb.Firefox(firefox_options = opts)
+/home/mrmark23/Glacier_Get_Shot.py:14: DeprecationWarning: use options instead of firefox_options
+  driver = wb.Firefox(firefox_options = opts)
+/home/mrmark23/Glacier_Get_Shot.py:14: DeprecationWarning: use options instead of firefox_options
+  driver = wb.Firefox(firefox_options = opts)
+/home/mrmark23/Glacier_Get_Shot.py:14: DeprecationWarning: use options instead of firefox_options
+  driver = wb.Firefox(firefox_options = opts)
+/home/mrmark23/Glacier_Get_Shot.py:14: DeprecationWarning: use options instead of firefox_options
+  driver = wb.Firefox(firefox_options = opts)
+/home/mrmark23/Glacier_Get_Shot.py:14: DeprecationWarning: use options instead of firefox_options
+  driver = wb.Firefox(firefox_options = opts)
+/home/mrmark23/Glacier_Get_Shot.py:14: DeprecationWarning: use options instead of firefox_options
+  driver = wb.Firefox(firefox_options = opts)
+/home/mrmark23/Glacier_Get_Shot.py:14: DeprecationWarning: use options instead of firefox_options
+  driver = wb.Firefox(firefox_options = opts)
+/home/mrmark23/Glacier_Get_Shot.py:14: DeprecationWarning: use options instead of firefox_options
+  driver = wb.Firefox(firefox_options = opts)
+/home/mrmark23/Glacier_Get_Shot.py:14: DeprecationWarning: use options instead of firefox_options
+  driver = wb.Firefox(firefox_options = opts)
+/home/mrmark23/Glacier_Get_Shot.py:14: DeprecationWarning: use options instead of firefox_options
+  driver = wb.Firefox(firefox_options = opts)
+/home/mrmark23/Glacier_Get_Shot.py:14: DeprecationWarning: use options instead of firefox_options
+  driver = wb.Firefox(firefox_options = opts)
+/home/mrmark23/Glacier_Get_Shot.py:14: DeprecationWarning: use options instead of firefox_options
+  driver = wb.Firefox(firefox_options = opts)
+/home/mrmark23/Glacier_Get_Shot.py:14: DeprecationWarning: use options instead of firefox_options
+  driver = wb.Firefox(firefox_options = opts)
+/home/mrmark23/Glacier_Get_Shot.py:14: DeprecationWarning: use options instead of firefox_options
+  driver = wb.Firefox(firefox_options = opts)
+/home/mrmark23/Glacier_Get_Shot.py:14: DeprecationWarning: use options instead of firefox_options
+  driver = wb.Firefox(firefox_options = opts)
+/home/mrmark23/Glacier_Get_Shot.py:14: DeprecationWarning: use options instead of firefox_options
+  driver = wb.Firefox(firefox_options = opts)
+/home/mrmark23/Glacier_Get_Shot.py:14: DeprecationWarning: use options instead of firefox_options
+  driver = wb.Firefox(firefox_options = opts)
+/home/mrmark23/Glacier_Get_Shot.py:14: DeprecationWarning: use options instead of firefox_options
+  driver = wb.Firefox(firefox_options = opts)
+/home/mrmark23/Glacier_Get_Shot.py:14: DeprecationWarning: use options instead of firefox_options
+  driver = wb.Firefox(firefox_options = opts)
+/home/mrmark23/Glacier_Get_Shot.py:14: DeprecationWarning: use options instead of firefox_options
+  driver = wb.Firefox(firefox_options = opts)
+/home/mrmark23/Glacier_Get_Shot.py:14: DeprecationWarning: use options instead of firefox_options
+  driver = wb.Firefox(firefox_options = opts)
+/home/mrmark23/Glacier_Get_Shot.py:14: DeprecationWarning: use options instead of firefox_options
+  driver = wb.Firefox(firefox_options = opts)
+/home/mrmark23/Glacier_Get_Shot.py:14: DeprecationWarning: use options instead of firefox_options
+  driver = wb.Firefox(firefox_options = opts)
+/home/mrmark23/Glacier_Get_Shot.py:14: DeprecationWarning: use options instead of firefox_options
+  driver = wb.Firefox(firefox_options = opts)
+/home/mrmark23/Glacier_Get_Shot.py:14: DeprecationWarning: use options instead of firefox_options
+  driver = wb.Firefox(firefox_options = opts)
+/home/mrmark23/Glacier_Get_Shot.py:14: DeprecationWarning: use options instead of firefox_options
+  driver = wb.Firefox(firefox_options = opts)
+/home/mrmark23/Glacier_Get_Shot.py:14: DeprecationWarning: use options instead of firefox_options
+  driver = wb.Firefox(firefox_options = opts)
+/home/mrmark23/Glacier_Get_Shot.py:14: DeprecationWarning: use options instead of firefox_options
+  driver = wb.Firefox(firefox_options = opts)
+/home/mrmark23/Glacier_Get_Shot.py:14: DeprecationWarning: use options instead of firefox_options
+  driver = wb.Firefox(firefox_options = opts)
+/home/mrmark23/Glacier_Get_Shot.py:14: DeprecationWarning: use options instead of firefox_options
+  driver = wb.Firefox(firefox_options = opts)
+/home/mrmark23/Glacier_Get_Shot.py:14: DeprecationWarning: use options instead of firefox_options
+  driver = wb.Firefox(firefox_options = opts)
+/home/mrmark23/Glacier_Get_Shot.py:14: DeprecationWarning: use options instead of firefox_options
+  driver = wb.Firefox(firefox_options = opts)
+/home/mrmark23/Glacier_Get_Shot.py:14: DeprecationWarning: use options instead of firefox_options
+  driver = wb.Firefox(firefox_options = opts)
+/home/mrmark23/Glacier_Get_Shot.py:14: DeprecationWarning: use options instead of firefox_options
+  driver = wb.Firefox(firefox_options = opts)
+/home/mrmark23/Glacier_Get_Shot.py:14: DeprecationWarning: use options instead of firefox_options
+  driver = wb.Firefox(firefox_options = opts)
+/home/mrmark23/Glacier_Get_Shot.py:14: DeprecationWarning: use options instead of firefox_options
+  driver = wb.Firefox(firefox_options = opts)
+/home/mrmark23/Glacier_Get_Shot.py:14: DeprecationWarning: use options instead of firefox_options
+  driver = wb.Firefox(firefox_options = opts)
+/home/mrmark23/Glacier_Get_Shot.py:14: DeprecationWarning: use options instead of firefox_options
+  driver = wb.Firefox(firefox_options = opts)
+/home/mrmark23/Glacier_Get_Shot.py:14: DeprecationWarning: use options instead of firefox_options
+  driver = wb.Firefox(firefox_options = opts)
+/home/mrmark23/Glacier_Get_Shot.py:14: DeprecationWarning: use options instead of firefox_options
+  driver = wb.Firefox(firefox_options = opts)
+chmod: cannot access '/home/mrmark23/Glacier_Start_Script.sh': No such file or directory
